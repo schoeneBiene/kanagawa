@@ -1,0 +1,19 @@
+{
+  "id": "me.goodbee.kanagawa",
+  "name": "Kanagawa",
+  "description": "A theme based off the kanagawa.nvim colorscheme.",
+  "author": {
+    "name": "goodbee",
+    "discordID": "658968552606400512",
+    "github": "schoeneBiene"
+  },
+  "version": "1.0.0",
+  "updater": {
+    "type": "github",
+    "id": "schoeneBiene/kanagawa"
+  },
+  "license": "AGPL-3.0-or-later",
+  "type": "replugged-theme",
+  "main": "scss/kanagawa.scss",
+  "source": "https://github.com/schoeneBiene/kanagawa"
+}
