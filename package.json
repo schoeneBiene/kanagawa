@@ -1,9 +1,9 @@
 {
-  "name": "template-discord-theme",
+  "name": "kanagawa",
   "version": "1.0.0",
-  "description": "A template Discord theme for multiple client mod support.",
+  "description": "A dark discord theme.",
   "repository": "github:Saltssaumure/template-discord-theme",
-  "author": "Saltssaumure <themes@saltssaumure.net>",
+  "author": "goodbee",
   "license": "AGPL-3.0-or-later",
   "private": true,
   "type": "module",

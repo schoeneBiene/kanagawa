@@ -1,20 +1,19 @@
 {
-  "id": "net.saltssaumure.Template",
-  "name": "Template",
-  "description": "A template theme for multiple client mod support.",
+  "id": "me.goodbee.kanagawa",
+  "name": "Kanagawa",
+  "description": "A theme based off the kanagawa.nvim colorscheme.",
   "author": {
-    "name": "Saltssaumure",
-    "discordID": "134142022092062720",
-    "github": "Saltssaumure"
+    "name": "goodbee",
+    "discordID": "658968552606400512",
+    "github": "schoeneBiene"
   },
   "version": "1.0.0",
   "updater": {
-    "type": "store",
-    "id": "net.saltssaumure.Template"
+    "type": "github",
+    "id": "schoeneBiene/kanagawa"
   },
   "license": "AGPL-3.0-or-later",
   "type": "replugged-theme",
-  "main": "scss/temp.scss",
-  "source": "https://github.com/Saltssaumure/template-discord-theme",
-  "image": ["https://saltssaumure.github.io/template-discord-theme/preview/preview.avif"]
+  "main": "scss/kanagawa.scss",
+  "source": "https://github.com/schoeneBiene/kanagawa"
 }
