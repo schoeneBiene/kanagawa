@@ -22,8 +22,8 @@
 
 [release-bd]:       https://betterdiscord.app/theme/?id=000 "BetterDiscord store page"
 [release-rp]:       https://replugged.dev/store/net.saltssaumure.Template "Replugged store page"
-[release-bd-gh]:    https://github.com/Saltssaumure/template-discord-theme/releases/latest/download/Template.theme.css "Get latest release"
-[release-rp-gh]:    https://github.com/Saltssaumure/template-discord-theme/releases/latest/download/net.saltssaumure.Template.asar "Get latest release"
+[release-bd-gh]:    https://github.com/schoeneBiene/kanagawa/releases/latest/download/kanagawa.theme.css "Get latest release"
+[release-rp-gh]:    https://github.com/schoeneBiene/kanagawa/releases/latest/download/me.goodbee.kanagawa.asar  "Get latest release"
 
 # Kanagawa Discord Theme
 
