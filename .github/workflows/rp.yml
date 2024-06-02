@@ -1,7 +1,9 @@
 name: Bundle and release for Replugged
 
 on:
-  workflow_dispatch:
+  push:
+    tags:
+      - v*
 
 jobs:
   release:
