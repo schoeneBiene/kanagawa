@@ -1,0 +1,61 @@
+@mixin dark {
+    --background-tertiary: #1f1f28;
+    --background-primary: #1f1f28;
+    --background-secondary: #1f1f28;
+    --background-secondary-alt: #1f1f28;
+    --brand-500: #e46876;
+    --channeltextarea-background: #2a2a37;
+    --status-danger: #e82424;
+    --background-mentioned: #49443c;
+    --bg-overlay-2: #2a2a37;
+    --background-modifier-selected: #2a2a37;
+    --home-background: #2a2a37;
+
+    .jumpToPresentBar__69174 {
+        background-color: #363646;
+    }
+
+    .wrapper__57349 {
+        background-color: #2a2a37;
+    }
+
+    .childWrapperNoHoverBg__7e8f1 {
+        background-color: #2a2a37;
+    }
+
+    .newMessagesBar__8b272 {
+        background-color: #7e9cd8;
+    }
+
+    .searchBar__621ec {
+        background-color: #2a2a37;
+    }
+
+    .vc-addon-card {
+        background-color: #2a2a37;
+    }
+
+    .lookFilled__950dd {
+        background-color: #2d4f67 !important;
+    }
+
+    .checked__36fdc {
+        background-color: #2d4f67 !important;
+    }
+
+    .container_f41675 {
+        background-color: #2a2a37;
+    }
+
+    span[aria-label="Spoiler"] {
+        background-color: #727169;
+    }
+
+    .vc-ranb-button {
+        background-color: transparent !important;
+    }
+
+    code[class="inline"] {
+        background-color: #252535;
+    }
+}
