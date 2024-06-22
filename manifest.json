@@ -7,7 +7,7 @@
     "discordID": "658968552606400512",
     "github": "schoeneBiene"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "updater": {
     "type": "github",
     "id": "schoeneBiene/kanagawa"
