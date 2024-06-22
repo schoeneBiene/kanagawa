@@ -35,7 +35,7 @@
         background-color: #2a2a37;
     }
 
-    .lookFilled_dd4f85 {
+    .lookFilled_dd4f85:not(.colorRed_dd4f85) {
         background-color: #2d4f67 !important;
     }
 
@@ -73,5 +73,9 @@
 
     .overlayBackground_c69a7b {
         background-color: #2a2a37;
+    }
+
+    .lookFilled_dd4f85.colorRed_dd4f85 {
+        background-color: #e82424;
     }
 }
